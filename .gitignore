@@ -1,0 +1,10 @@
+# ignoring virtual environment directoriesan
+p_env/
+
+#ignoring data files and all csv files
+data/
+*.csv
+
+# ignoring Python cache files
+__pycache__/        
+*.pyc
