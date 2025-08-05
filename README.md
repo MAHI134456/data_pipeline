@@ -30,6 +30,7 @@ data_pipeline/
 │ ├── load_data.py # Data loading function
 │ ├── preprocess.py # Cleaning & preprocessing
 │ ├── visualizations.py # Plotting utilities
+│ ├── Structural_Tabular_Event_Data.py # for creating oil market with events .csv file
 │ └── time_series_utils.py # ADF test and helpers
 │
 ├── reports/
