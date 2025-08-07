@@ -21,5 +21,19 @@ function App() {
     </div>
   );
 }
+import React from 'react';
+import OilPriceChart from './components/OilPriceChart';
+
+function App() {
+  return (
+    <div className="App">
+      <h1>Brent Oil Price Dashboard</h1>
+      <OilPriceChart />
+    </div>
+  );
+}
+
+
+
 
 export default App;
